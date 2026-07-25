@@ -1,0 +1,8 @@
+ipykerne
+langchain_community
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain-ollama
+streamlit
+pypdf
